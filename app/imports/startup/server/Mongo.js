@@ -27,6 +27,6 @@ if (Stuffs.collection.find().count() === 0) {
 if (Contacts.collection.find().count() === 0) {
   if (Meteor.settings.defaultContacts) {
     console.log('Creating default Contacts.');
-    Meteor.settings.defaultData.map(data => addContact(data));
+    Meteor.settings.defaultContacts.map(data => addContact(data));
   }
 }
