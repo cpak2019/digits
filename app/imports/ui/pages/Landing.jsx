@@ -18,7 +18,7 @@ class Landing extends React.Component {
             <Header as ='h1' inverted>Contract Details</Header>
             <Header as ='h3' inverted> For each contract you can save their name, address, and phone number.</Header>
           </Grid.Column><Grid.Column textAlign='center'>
-          <Icon size="huge" name="Calendar Check" inverted />
+          <Icon size="huge" name="calendar check outline" inverted />
           <Header as ='h1' inverted>Timestamped Notes</Header>
           <Header as ='h3' inverted> Each time you make contact witha contact you can write a
             note that summarizes the conversation. This note is saved along with a timestamp with the contact.</Header>
