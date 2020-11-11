@@ -16,7 +16,7 @@ To set up Digits
 You can use the icon at the top right of the application to access the login or register pages. If you don't have a saved account create one, otherwise login.
 
 ### Add Contact
-<img src="doc/addContact.png.png">
+<img src="doc/addContact.png">
 Through the add contact page you are able to add new contacts to your stored list.
 
 ### List Contacts
